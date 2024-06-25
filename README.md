@@ -22,10 +22,17 @@
   - JSON Web Token (JWT)：https://datatracker.ietf.org/doc/html/rfc7519
   - JSON Web Token (JWT) Profile for OAuth 2.0 Client Authentication and Authorization Grants：https://datatracker.ietf.org/doc/html/rfc7523
   - OAuth 2.0 Token Introspection：https://datatracker.ietf.org/doc/html/rfc7662
+  - Security Event Token (SET) : https://datatracker.ietf.org/doc/html/rfc8417
+  - Subject Identifiers for Security Event Tokens : https://datatracker.ietf.org/doc/html/rfc9493
+  - Push-Based Security Event Token (SET) Delivery Using HTTP : https://datatracker.ietf.org/doc/html/rfc8935
+  - Poll-Based Security Event Token (SET) Delivery Using HTTP : https://datatracker.ietf.org/doc/html/rfc8936
 - OIDF: https://openid.net/developers/specs/
   - https://openid.net/specs/openid-connect-core-1_0.html
   - https://openid.net/specs/openid-connect-discovery-1_0.html
   - https://openid.net/specs/openid-connect-registration-1_0.html
+  - https://openid.net/specs/openid-sharedsignals-framework-1_0.html
+  - https://openid.net/specs/openid-caep-specification-1_0.html
+  - https://openid.net/specs/openid-risc-profile-specification-1_0.html
 - NIST
   - Digital Identity Guidelines: https://pages.nist.gov/800-63-3/
     - draft: https://pages.nist.gov/800-63-4/
@@ -41,6 +48,8 @@
 - IANA: https://www.iana.org/
   - OAuth Parameters: https://www.iana.org/assignments/oauth-parameters/oauth-parameters.xhtml
   - JSON Web Token Claims: https://www.iana.org/assignments/jwt/jwt.xhtml
+- eIDAS
+  - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910
 
 ## その他
 
